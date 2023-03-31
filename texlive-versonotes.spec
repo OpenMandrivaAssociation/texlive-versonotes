@@ -1,6 +1,6 @@
 Name:		texlive-versonotes
 Version:	55777
-Release:	1
+Release:	2
 Summary:	Display brief notes on verso pages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/versonotes
