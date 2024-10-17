@@ -3,7 +3,7 @@ Version:	69249
 Release:	1
 Summary:	Display brief notes on verso pages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/versonotes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/versonotes
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/versonotes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/versonotes.doc.r%{version}.tar.xz
